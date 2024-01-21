@@ -1,33 +1,33 @@
-Volcano Name,	Country	Type,	Latitude (dd),	Longitude (dd),	Elevation (m)
+VolcanoName,Country,Type,Latitude(dd),Longitude (dd),Elevation (m)
 Erebus,Antarctica,Stratovolcano,-77.5,167.2,3794					
 Copahue,Argentina,Stratovolcano,-37.85,-71.17,2965					
-Ojos del Salado,Argentina, Chile,Stratovolcano,-27.12,-68.55,6887					
+Ojos del Salado,Argentina-Chile,Stratovolcano,-27.12,-68.55,6887
 Undara,Australia,Shield,-18.25,144.75,1020					
 McDonald Islands,Australia,Complex,-53.03,72.6,230					
 Newer Volcanics Province,Australia,Shield,-37.77,142.5,1011					
 Heard,Australia,Stratovolcano,-53.1,73.5,2745					
-Parinacota,Bolivia, Chile,Stratovolcano,-18.17,-69.15,6348					
+Parinacota,Bolivia-Chile,Stratovolcano,-18.17,-69.15,6348
 Oku Volcanic Field,Cameroon,Stratovolcano,6.25,10.5,3011					
 Cameroon (Mount),Cameroon,Stratovolcano,4.2,9.17,4095					
 Fogo,Cape Verde Islands,Stratovolcano,14.95,-24.35,2829					
 San Vicente,Cape Verde Islands,Stratovolcano,16.9,-25,697					
 Tarso Voon,Chad,Stratovolcano,20.92,17.28,3100					
 Azufre,Chile,Complex,-21.79,-68.24,5846					
-Parinacota,Bolivia, Chile,Stratovolcano,-18.17,-69.15,6348					
+Parinacota,Bolivia-Chile,Stratovolcano,-18.17,-69.15,6348
 Acamarachi,Chile,Stratovolcano,-23.3,-67.62,6046					
 Aguilera,Chile,Stratovolcano,-50.33,-73.75,2546					
 Arintica,Chile,Complex,-18.73,-69.05,5597					
 Guallatiri,Chile,Stratovolcano,-18.42,-69.09,6071					
 Villarrica,Chile,Stratovolcano,-39.42,-71.93,2847					
 Sollipulli,Chile,Caldera,-38.97,-71.52,2282					
-Ojos del Salado,Argentina, Chile,Stratovolcano,-27.12,-68.55,6887					
+Ojos del Salado,Argentina-Chile,Stratovolcano,-27.12,-68.55,6887
 Láscar,Chile,Stratovolcano,-23.37,-67.73,5592					
-Ruiz, Nevado del,Colombia,Stratovolcano,4.89,-75.32,5321					
+Ruiz, Colombia,Stratovolcano,4.89,-75.32,5321
 Galeras,Colombia,Stratovolcano,1.22,-77.37,4276					
 Purace,Colombia,Stratovolcano,2.32,-76.4,4650					
 Karthala,Comoros,Shield,-11.75,43.38,2361					
-Visoke,Congo, Rwanda,Stratovolcano,-1.47,29.49,3711					
-Karisimbi,Congo, Rwanda,Stratovolcano,-1.51,29.45,4507					
+Visoke,Congo-Rwanda,Stratovolcano,-1.47,29.49,3711
+Karisimbi,Congo-Rwanda,Stratovolcano,-1.51,29.45,4507
 Irazu,Costa Rica,Stratovolcano,9.98,83.85,3431					
 Rincon de la Vieja,Costa Rica,Complex,10.83,-85.32,1916					
 Arenal,Costa Rica,Stratovolcano,10.46,-84.7,1670					
@@ -60,10 +60,10 @@ Ale Bagu,Ethiopia,Stratovolcano,13.52,40.63,1031
 Alayta,Ethiopia,Shield,12.88,40.57,1501					
 Adwa,Ethiopia,Stratovolcano,10.07,40.84,1733					
 Fantale,Ethiopia,Stratovolcano,8.98,39.93,2007					
-Butajira,Ethiopia,Fissure vent, Maar,8.05,38.35,2281					
+Butajira,Ethiopia,Fissure vent,8.05,38.35,2281
 Afderà,Ethiopia,Stratovolcano,13.08,40.85,1295					
-Butajira,Ethiopia,Fissure vent, Maar,8.05,38.35,2281					
-Mega Basalt Field,Ethiopia, Kenya,Pyroclastic cone,37.42,4.08,1067					
+Butajira,Ethiopia,Fissure vent,8.05,38.35,2281
+Mega Basalt Field,Ethiopia-Kenya,Pyroclastic cone,37.42,4.08,1067
 Pelee,France,Stratovolcano,14.82,-61.17,1397					
 Piton de la Fournaise,France,Shield,-21.23,55.71,2631					
 Chaine des Puys,France,Lava dome,45.78,2.97,1464					
@@ -182,7 +182,7 @@ Usu,Japan,Stratovolcano,42.54,140.84,737
 Komagatake,Japan,Stratovolcano,42.06,140.68,1131					
 Akan,Japan,Caldera,43.38,144.01,1499					
 Nipesotsu-Maruyama,Japan,Stratovolcano,43.45,143.04,2013					
-Mega Basalt Field,Ethiopia, Kenya,Pyroclastic cone,37.42,4.08,1067					
+Mega Basalt Field,Ethiopia-Kenya,Pyroclastic cone,37.42,4.08,1067
 Menengai,Kenya,Shield,-0.2,36.07,2278					
 South Island,Kenya,2.63,36.6,800					
 Nyambeni Hills,Kenya,Shield,0.23,37.87,750					
@@ -202,7 +202,7 @@ Pinacate,Mexico,Cinder Cone,31.77,-113.5,1200
 El Chichon,Mexico,Caldera,17.36,-93.23,1060					
 Michoacan-Guanajuato,Mexico,Cinder Cone,19.85,-101.75,3860					
 Pinacate,Mexico,Cinder Cone,31.77,-113.5,1200					
-Quill, The,Netherlands,Stratovolcano,17.48,-62.96,601					
+Quill,Netherlands,Stratovolcano,17.48,-62.96,601
 Saba,Netherlands,Stratovolcano,17.63,-63.23,887					
 Ngauruhoe,New Zealand,Stratovolcano,-39.13,175.64,1978					
 Okataina,New Zealand,Lava dome,-38.12,176.5,1111					
@@ -213,13 +213,13 @@ Monowai Seamount,New Zealand,Submarine,-25.89,-177.19,-132
 Rumble IV,New Zealand,Submarine,-36.13,178.05,500					
 Egmont (Taranaki),New Zealand,Stratovolcano,-39.3,174.1,2518					
 Momotombo,Nicaragua,Stratovolcano,12.42,-86.54,1297					
-Negro, Cerro,Nicaragua,Cinder Cone,12.51,-86.7,728					
+Negro Cerro,Nicaragua,Cinder Cone,12.51,-86.7,728
 Maderas,Nicaragua,Stratovolcano,11.45,-85.52,1394					
 Masaya,Nicaragua,Caldera,11.98,-86.16,635					
 Concepción,Nicaragua,Stratovolcano,11.5,85.6,1610					
 San Cristobal,Nicaragua,Stratovolcano,12.7,-87,1745					
 Cosigüina,Nicaragua,Shield,12.98,-87.56,847					
-Pilas, Las,Nicaragua,Stratovolcano,11.54,-85.62,1700					
+Pilas Las,Nicaragua,Stratovolcano,11.54,-85.62,1700
 Telica Volcano,Nicaragua,Stratovolcano,12.6,-86.85,1010					
 Beerenberg,Norway,Stratovolcano,71.1,-8.2,2277					
 Axial Seamount,Pacific Ocean,Submarine,45.95,-130,-1410					
@@ -316,8 +316,8 @@ Vernadskii Ridge,Russia,Cinder Cone,50.55,155.97,1183
 Chikurachki,Russia,Stratovolcano,50.33,155.46,5958					
 Karymsky,Russia,Stratovolcano,54.05,159.45,1536					
 Diky Greben,Russia,Lava dome,51.46,156.98,1331					
-Visoke,Congo, Rwanda,Stratovolcano,-1.47,29.49,3711					
-Karisimbi,Congo, Rwanda,Stratovolcano,-1.51,29.45,4507					
+Visoke,Congo-Rwanda,Stratovolcano,-1.47,29.49,3711
+Karisimbi,Congo-Rwanda,Stratovolcano,-1.51,29.45,4507
 Kavachi,Solomon Islands,Submarine,-9.02,157.95,-20					
 Savo,Solomon Islands,Stratovolcano,-9.13,159.82,485					
 Ascensión,South Atlantic Ocean,Stratovolcano,-7.95,-14.37,858					
@@ -372,7 +372,7 @@ Tanaga and Takawangha,United States,Stratovolcano,51.89,-178.15,1806
 Columbia River Flood Basalts,United States,Flood Basalt,0					
 Bachelor,United States,Stratovolcano,43.8,121.6,2763					
 Pavlof Sister,United States,Stratovolcano,55.45,-161.84,2142					
-McLoughlin,United States,Lava cone, Stratovolcano,42.45,-122.32,2894					
+McLoughlin,United States,Lava cone - Stratovolcano,42.45,-122.32,2894
 Isanotski,United States,Stratovolcano,54.77,-163.72,2446					
 Westdahl,United States,Stratovolcano,54.52,-164.65,1654					
 Roundtop,United States,Stratovolcano,54.8,-163.59,1871					
@@ -380,7 +380,7 @@ Newberry,United States,Shield,43.72,-121.23,2434
 Three Fingered Jack,United States,Stratovolcano,44.5,-121.8,2390					
 Pagan,United States,Stratovolcano,18.13,145.8,570					
 Little Sitkin,United States,Stratovolcano,51.95,178.54,1174					
-McLoughlin,United States,Lava cone, Stratovolcano,42.45,-122.32,2894					
+McLoughlin,United States,Lava cone - Stratovolcano,42.45,-122.32,2894
 Kilauea,United States,Shield,19.42,-155.29,1222					
 Kanaga,United States,Stratovolcano,51.92,-177.17,1307					
 Steller,United States,Stratovolcano,58.4,-154.4,2272					
@@ -414,7 +414,7 @@ Akutan,United States,Stratovolcano,54.13,-165.99,1303
 Augustine,United States,Lava dome,59.36,-153.43,1252					
 Ubehebe Craters,United States,Maar,37.02,-117.45,752					
 Pavlof,United States,Stratovolcano,55.42,-161.89,2519					
-McLoughlin,United States,Lava cone, Stratovolcano,42.45,-122.32,2894					
+McLoughlin,United States,Lava cone - Stratovolcano,42.45,-122.32,2894
 Isanotski,United States,Stratovolcano,54.77,-163.72,2446					
 Westdahl,United States,Stratovolcano,54.52,-164.65,1654					
 Roundtop,United States,Stratovolcano,54.8,-163.59,1871					
@@ -430,7 +430,7 @@ Gaua,Vanuatu,Stratovolcano,-14.27,167.5,797
 Aoba,Vanuatu,Shield,-15.4,167.83,1496					
 Kuwae,Vanuatu,Caldera,-16.83,168.54,-2					
 Yasur,Vanuatu,Stratovolcano,-19.53,169.44,361					
-Ambrym,Vanuatu,Caldera, Shield,-16.25,168.12,1334					
+Ambrym,Vanuatu,Caldera - Shield,-16.25,168.12,1334
 Lopevi,Vanuatu,Stratovolcano,-16.51,168.35,1413					
-Ambrym,Vanuatu,Caldera, Shield,-16.25,168.12,1334					
+Ambrym,Vanuatu,Caldera - Shield,-16.25,168.12,1334
 Wudalianchi,China,Volcanic field,48.72,126.12,597					
