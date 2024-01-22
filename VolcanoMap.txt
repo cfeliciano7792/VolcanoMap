@@ -1,16 +1,16 @@
-VolcanoName,Country,Type,Latitude,Longitude,Elevation (m)
-Erebus,Antarctica,Stratovolcano,-77.5,167.2,3794					
-Copahue,Argentina,Stratovolcano,-37.85,-71.17,2965					
+Name,Country,Type,Latitude,Longitude,Elevation
+Erebus,Antarctica,Stratovolcano,-77.5,167.2,3794
+Copahue,Argentina,Stratovolcano,-37.85,-71.17,2965
 Ojos del Salado,Argentina-Chile,Stratovolcano,-27.12,-68.55,6887
-Undara,Australia,Shield,-18.25,144.75,1020					
-McDonald Islands,Australia,Complex,-53.03,72.6,230					
-Newer Volcanics Province,Australia,Shield,-37.77,142.5,1011					
-Heard,Australia,Stratovolcano,-53.1,73.5,2745					
+Undara,Australia,Shield,-18.25,144.75,1020
+McDonald Islands,Australia,Complex,-53.03,72.6,230
+Newer Volcanics Province,Australia,Shield,-37.77,142.5,1011
+Heard,Australia,Stratovolcano,-53.1,73.5,2745
 Parinacota,Bolivia-Chile,Stratovolcano,-18.17,-69.15,6348
-Oku Volcanic Field,Cameroon,Stratovolcano,6.25,10.5,3011					
-Cameroon (Mount),Cameroon,Stratovolcano,4.2,9.17,4095					
-Fogo,Cape Verde Islands,Stratovolcano,14.95,-24.35,2829					
-San Vicente,Cape Verde Islands,Stratovolcano,16.9,-25,697					
+Oku Volcanic Field,Cameroon,Stratovolcano,6.25,10.5,3011
+Cameroon (Mount),Cameroon,Stratovolcano,4.2,9.17,4095
+Fogo,Cape Verde Islands,Stratovolcano,14.95,-24.35,2829
+San Vicente,Cape Verde Islands,Stratovolcano,16.9,-25,697
 Tarso Voon,Chad,Stratovolcano,20.92,17.28,3100
 Azufre,Chile,Complex,-21.79,-68.24,5846
 Parinacota,Bolivia-Chile,Stratovolcano,-18.17,-69.15,6348
@@ -333,84 +333,6 @@ Michael,United Kingdom,Stratovolcano,-57.78,-26.45,990
 Thule Islands,United Kingdom,Stratovolcano,-59.45,-27.37,1075
 Soufrière Hills,United Kingdom,Stratovolcano,16.72,-62.18,915
 Tristan da Cunha,United Kingdom,Shield,-37.09,-12.28,2060
-Kialagvik,United States,Stratovolcano,57.2,-156.75,1677
-Spurr,United States,Stratovolcano,61.3,-152.25,3374
-Glacier Peak,United States,Stratovolcano,48.11,-121.11,3213
-Capulin,United States,Cinder Cone,36.45,-104.09,2494
-Washington,United States,Shield,44.3,-121.8,2376
-Jordan Craters,United States,Volcanic field,43.1,-117.4,1400
-Cleveland,United States,Stratovolcano,52.83,-169.95,1730
-Yantarni,United States,Stratovolcano,57.02,-157.19,1345
-Adams,United States,Stratovolcano,46.21,-121.49,3742
-Kaguyak,United States,Stratovolcano,58.62,-154.06,901
-Shasta,United States,Stratovolcano,41.41,-122.19,4317
-Akutan,United States,Stratovolcano,54.13,-165.99,1303
-Augustine,United States,Lava dome,59.36,-153.43,1252
-Ubehebe Craters,United States,Maar,37.02,-117.45,752
-Pavlof,United States,Stratovolcano,55.42,-161.89,2519
-Guguan,United States,Stratovolcano,17.31,145.84,287
-Craters of the Moon,United States,Volcanic field,43.42,-113.5,2005
-Pisgah Lava Field,United States,Volcanic field,34.75,-116.63,1495
-Iliamna,United States,Stratovolcano,60.03,-153.09,3053
-Rainier,United States,Stratovolcano,46.85,-121.76,4392
-Carrizozo,United States,Volcanic field,33.7,-106,1730
-Kahoolawe,United States,Shield,20.55,-156.57,450
-Mono Lake Vol Field,United States,Volcanic field,38,-119.03,2121
-Katmai,United States,Stratovolcano,58.28,-154.96,2047
-Menan Buttes,United States,Tuff ring,43.7,-111.96,1713
-Tanaga and Takawangha,United States,Stratovolcano,51.89,-178.15,1806
-Bachelor,United States,Stratovolcano,43.8,121.6,2763
-Pavlof Sister,United States,Stratovolcano,55.45,-161.84,2142
-McLoughlin,United States,Lava cone - Stratovolcano,42.45,-122.32,2894
-Isanotski,United States,Stratovolcano,54.77,-163.72,2446
-Westdahl,United States,Stratovolcano,54.52,-164.65,1654
-Roundtop,United States,Stratovolcano,54.8,-163.59,1871
-Newberry,United States,Shield,43.72,-121.23,2434
-Three Fingered Jack,United States,Stratovolcano,44.5,-121.8,2390
-Pagan,United States,Stratovolcano,18.13,145.8,570
-Little Sitkin,United States,Stratovolcano,51.95,178.54,1174
-McLoughlin,United States,Lava cone - Stratovolcano,42.45,-122.32,2894
-Kilauea,United States,Shield,19.42,-155.29,1222
-Kanaga,United States,Stratovolcano,51.92,-177.17,1307
-Steller,United States,Stratovolcano,58.4,-154.4,2272
-Fisher,United States,Stratovolcano,-54.63,-164.42,1095
-Devils Tower,United States,Plug,44.6,-104.7,1558
-Okmok,United States,Shield,53.43,-168.13,1073
-Loihi,United States,Submarine,18.92,-155.27,-975
-Great Sitkin,United States,Stratovolcano,52.07,-176.13,1740
-Baker,United States,Stratovolcano,48.79,-121.82,3285
-Ugashik and Peulik,United States,Stratovolcano,57.75,-156.37,1474
-Mageik,United States,Stratovolcano,58.2,155.25,2165
-Wrangell,United States,Shield,62,-144.02,4317
-Devils Garden,United States,Volcanic field,43.5,-120.9,1525
-Aniakchak,United States,Caldera,56.88,-158.17,1341
-Kukak,United States,Stratovolcano,58.45,-154.36,2043
-Gareloi,United States,Stratovolcano,51.8,178.8,1573
-Griggs,United States,Stratovolcano,58.35,-155.09,2317
-Uinkaret Volcanic Field,United States,Volcanic field,36.38,-113.13,1555
-Glacier Peak,United States,Stratovolcano,48.11,-121.11,3213
-Guguan,United States,Stratovolcano,17.31,145.84,287
-Craters of the Moon,United States,Volcanic field,43.42,-113.5,2005
-Pisgah Lava Field,United States,Volcanic field,34.75,-116.63,1495
-Iliamna,United States,Stratovolcano,60.03,-153.09,3053
-Rainier,United States,Stratovolcano,46.85,-121.76,4392
-Carrizozo,United States,Volcanic field,33.7,-106,1730
-Kahoolawe,United States,Shield,20.55,-156.57,450
-Mono Lake Vol Field,United States,Volcanic field,38,-119.03,2121
-Katmai,United States,Stratovolcano,58.28,-154.96,2047
-Menan Buttes,United States,Tuff ring,43.7,-111.96,1713
-Akutan,United States,Stratovolcano,54.13,-165.99,1303
-Augustine,United States,Lava dome,59.36,-153.43,1252
-Ubehebe Craters,United States,Maar,37.02,-117.45,752
-Pavlof,United States,Stratovolcano,55.42,-161.89,2519
-McLoughlin,United States,Lava cone - Stratovolcano,42.45,-122.32,2894
-Isanotski,United States,Stratovolcano,54.77,-163.72,2446
-Westdahl,United States,Stratovolcano,54.52,-164.65,1654
-Roundtop,United States,Stratovolcano,54.8,-163.59,1871
-Newberry,United States,Shield,43.72,-121.23,2434
-Tanaga and Takawangha,United States,Stratovolcano,51.89,-178.15,1806
-Bachelor,United States,Stratovolcano,43.8,121.6,2763
-Pavlof Sister,United States,Stratovolcano,55.45,-161.84,2142
 East Epi,Vanuatu,Caldera,-16.7,168.4,-34
 Aneityum,Vanuatu,Stratovolcano,-20.2,169.78,852
 Traitor's Head,Vanuatu,Stratovolcano,-18.75,169.23,1881
@@ -422,3 +344,108 @@ Ambrym,Vanuatu,Caldera - Shield,-16.25,168.12,1334
 Lopevi,Vanuatu,Stratovolcano,-16.51,168.35,1413
 Ambrym,Vanuatu,Caldera - Shield,-16.25,168.12,1334
 Wudalianchi,China,Volcanic field,48.72,126.12,597
+Kialagvik,United States,Stratovolcano,57.2,-156.75,1677
+Spurr,United States,Stratovolcano,61.3,-152.25,3374
+Capulin,United States,Cinder Cone,36.45,-104.09,2494
+Cleveland,United States,Stratovolcano,52.83,-169.95,1730
+Yantarni,United States,Stratovolcano,57.02,-157.19,1345
+Kaguyak,United States,Stratovolcano,58.62,-154.06,901
+Akutan,United States,Stratovolcano,54.13,-165.99,1303
+Augustine,United States,Lava dome,59.36,-153.43,1252
+Pavlof,United States,Stratovolcano,55.42,-161.89,2519
+Guguan,United States,Stratovolcano,17.31,145.84,287
+Pisgah Lava Field,United States,Volcanic field,34.75,-116.63,1495
+Iliamna,United States,Stratovolcano,60.03,-153.09,3053
+Kahoolawe,United States,Shield,20.55,-156.57,450
+Mono Lake Vol Field,United States,Volcanic field,38,-119.03,2121
+Katmai,United States,Stratovolcano,58.28,-154.96,2047
+Menan Buttes,United States,Tuff ring,43.7,-111.96,1713
+Tanaga and Takawangha,United States,Stratovolcano,51.89,-178.15,1806
+Pavlof Sister,United States,Stratovolcano,55.45,-161.84,2142
+McLoughlin,United States,Lava cone - Stratovolcano,42.45,-122.32,2894
+Isanotski,United States,Stratovolcano,54.77,-163.72,2446
+Westdahl,United States,Stratovolcano,54.52,-164.65,1654
+Roundtop,United States,Stratovolcano,54.8,-163.59,1871
+Newberry,United States,Shield,43.72,-121.23,2434
+Three Fingered Jack,United States,Stratovolcano,44.5,-121.8,2390
+Pagan,United States,Stratovolcano,18.13,145.8,570
+Little Sitkin,United States,Stratovolcano,51.95,178.54,1174
+Kilauea,United States,Shield,19.42,-155.29,1222
+Kanaga,United States,Stratovolcano,51.92,-177.17,1307
+Steller,United States,Stratovolcano,58.4,-154.4,2272
+Fisher,United States,Stratovolcano,-54.63,-164.42,1095
+Devils Tower,United States,Plug,44.6,-104.7,1558
+Okmok,United States,Shield,53.43,-168.13,1073
+Loihi,United States,Submarine,18.92,-155.27,-975
+Great Sitkin,United States,Stratovolcano,52.07,-176.13,1740
+Ugashik and Peulik,United States,Stratovolcano,57.75,-156.37,1474
+Mageik,United States,Stratovolcano,58.2,155.25,2165
+Wrangell,United States,Shield,62,-144.02,4317
+Aniakchak,United States,Caldera,56.88,-158.17,1341
+Kukak,United States,Stratovolcano,58.45,-154.36,2043
+Gareloi,United States,Stratovolcano,51.8,178.8,1573
+Griggs,United States,Stratovolcano,58.35,-155.09,2317
+Uinkaret Volcanic Field,United States,Volcanic field,36.38,-113.13,1555
+Baker,US-Washington,Stratovolcanoes,48.7767982,-121.810997,3285
+Glacier Peak,US-Washington,Stratovolcano,48.1118011,-121.1110001,3213
+Rainier,US-Washington,Stratovolcano,46.8698006,-121.7509995,4392
+St. Helens,US-Washington,Stratovolcano,46.1997986,-122.1809998,2549
+Adams,US-Washington,Stratovolcano,46.2057991,-121.4909973,3742
+West Crater,US-Washington,Volcanic field,45.8797989,-122.0810013,1329
+Indian Heaven,US-Washington,Shield volcanoes,45.9297981,-121.8209991,1806
+Hood,US-Oregon,Stratovolcano,45.3737984,-121.6910019,3426
+Jefferson,US-Oregon,Stratovolcano,44.6917992,-121.8010025,3199
+Blue Lake Crater,US-Oregon,Maar,44.4197998,-121.7710037,1230
+Sand Mountain Field,US-Oregon,Cinder cones,44.3797989,-121.9309998,1664
+Washington,US-Oregon,Shield volcano,44.3317986,-121.8310013,2376
+Belknap,US-Oregon,Shield volcanoes,44.2848015,-121.8410034,2095
+North Sister Field,US-Oregon,Complex volcano,44.1697998,-121.7710037,3074
+South Sister,US-Oregon,Complex volcano,44.0998001,-121.7710037,3157
+Bachelor,US-Oregon,Stratovolcano,43.9788017,-121.6809998,2763
+Newberry Volcano,US-Oregon,Shield volcano,43.7218018,-121.2210007,2434
+Davis Lake,US-Oregon,Volcanic field,43.5698013,-121.8209991,2163
+Devils Garden,US-Oregon,Volcanic field,43.5119019,-120.8610001,1698
+Cinnamon Butte,US-Oregon,Cinder cones,43.240799,-122.1009979,1956
+Squaw Ridge Lava Field,US-Oregon,Volcanic field,43.4719009,-120.7509995,1711
+Four Craters Lava Field,US-Oregon,Volcanic field,43.3609009,-120.6610031,1501
+Crater Lake,US-Oregon,Caldera,42.9299011,-122.1210022,2487
+Yellowstone,US-Wyoming,Calderas,44.4299011,-110.6709976,2805
+Diamond Craters,US-Oregon,Volcanic field,43.0998993,-118.7509995,1435
+Jordan Craters,US-Oregon,Volcanic field,43.1498985,-117.4710007,1473
+Saddle Butte,US-Oregon,Volcanic field,42.9999008,-117.8010025,1700
+Craters of the Moon,US-Idaho,Cinder cones,43.419899,-113.5009995,2005
+Hell Half Acre,US-Idaho,Shield volcano,43.4999008,-112.4509964,1631
+Shoshone Lava Field,US-Idaho,Shield volcano,43.1799011,-114.3509979,1478
+Jackies Butte,US-Oregon,Volcanic field,42.6058998,-117.5810013,1418
+Medicine Lake,US-California,Shield volcano,41.5798988,-121.5709991,2412
+Wapi Lava Field,US-Idaho,Shield volcano,42.8799019,-113.2210007,1604
+Shasta,US-California,Stratovolcano,41.419899,-122.2009964,4317
+Brushy Butte,US-California,Shield volcano,41.1778984,-121.4410019,1174
+Big Cave,US-California,Shield volcano,40.9548988,-121.3610001,1259
+Twin Buttes,US-California,Cinder cones,40.7798996,-121.6009979,1631
+Tumble Buttes,US-California,Cinder cones,40.6799011,-121.5510025,2191
+Eagle Lake Field,US-California,Fissure vents,40.6299019,-120.8310013,1652
+Lassen Volc Center,US-California,Stratovolcano,40.4919014,-121.5009995,3187
+Clear Lake,US-California,Volcanic field,38.9698982,-122.7710037,1439
+Steamboat Springs,US-Nevada,Lava domes,39.3749008,-119.7210007,1415
+Dotsero,US-Colorado,Maar,39.6500015,-107.0309982,2230
+Mono Lake Volc Field,US-California,Cinder cones,37.9999008,-119.0309982,2121
+Black Rock Desert,US-Utah,Volcanic field,38.9700012,-112.5009995,1800
+Mono Craters,US-California,Lava domes,37.8799019,-119.0009995,2796
+Inyo Craters,US-California,Lava domes,37.6918983,-119.0210037,2629
+Long Valley,US-California,Caldera,37.6999016,-118.8710022,3390
+Red Cones,US-California,Cinder cones,37.5798988,-119.0510025,2748
+Ubehebe Craters,US-California,Maars,37.0199013,-117.4509964,752
+Markagunt Plateau,US-Utah,Volcanic field,37.5800018,-112.6709976,2840
+Santa Clara,US-Utah,Volcanic field,37.257,-113.6210022,1465
+Bald Knoll,US-Utah,Cinder cones,37.3279991,-112.401001,2135
+Golden Trout Creek,US-California,Volcanic field,36.3578987,-118.3209991,2886
+Coso Volc Field,US-California,Lava domes,36.0298996,-117.8209991,2400
+Uinkaret Field,US-Arizona,Volcanic field,36.3800011,-113.1309967,1555
+Lavic Lake,US-California,Volcanic field,34.75,-116.6210022,1495
+Valles Caldera,US-New Mexico,Caldera,35.8699989,-106.5709991,3430
+Sunset Crater,US-Arizona,Cinder cone,35.3699989,-111.5009995,2447
+Amboy,US-California,Cinder cone,34.5499992,-115.7809982,288
+Zuni-Bandera,US-New Mexico,Volcanic field,34.7999992,-108.0009995,2550
+Carrizozo,US-New Mexico,Cinder cone,33.7801018,-105.9309998,1731
+
